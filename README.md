@@ -2,7 +2,7 @@
 
 ## 💻 Sobre o Projeto
 
-Este projeto é uma análise de dados financeiros utilizando Python, com foco na coleta, manipulação e visualização de dados de mercado, especificamente o índice S&P 500. Ele serve como uma base sólida para qualquer aplicação que precise realizar análises financeiras e explorar dados históricos.
+Este projeto é uma análise de dados financeiros utilizando Python, com foco na coleta, manipulação e visualização de dados de mercado, especificamente o índice S&P 500.
 
 ## ⚙️ Funcionalidades
 
@@ -26,7 +26,7 @@ O projeto utiliza as seguintes tecnologias:
 
 ## 📝 Licença
 
-Este projeto é licenciado sob a Licença Aberta.
+Este projeto é licenciado sob a Licença MIT.
 
 ## 🚀 Como Começar
 
@@ -34,11 +34,11 @@ Para começar a utilizar este projeto, siga as etapas abaixo:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio
+    git clone https://github.com/hada97/data_quant
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    cd nome-do-repositorio
+    cd data_quant
     ```
 3. Instale as dependências (recomenda-se usar um ambiente virtual):
     ```bash
